@@ -20,7 +20,7 @@ Codigo em javascript do programa sce - sistema de cadastro de eventos - versao 0
 
 sce.js
 
-Codigo configirado para 5 vagas em todos os eventos para teste
+Codigo configurado para 5 vagas em todos os eventos para teste
 
 Executar a linha abaixo no terminal do vs code para download do modulo readline-sync
 npm install --save readline-sync
