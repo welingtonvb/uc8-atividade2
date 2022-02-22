@@ -1,7 +1,7 @@
 // Modulo para entrada de dados no console - npm install --save readline-sync
 
-
-// varriaveis
+console.clear()
+// variaveis
 let participantes = []
 let i = 0
 
@@ -181,7 +181,7 @@ while ((Menu == true)) {
                 console.log("Palestrante : ",palestrantes[a][1])
                 console.log("-----------------------------------------")         
             
-                for (var b = 0; b < participantes.length; b++) {
+                for (let b = 0; b < participantes.length; b++) {
                     if (a == participantes[b][2]) {
                     console.log(participantes[b][0])
                     }   
